@@ -1,0 +1,27 @@
+.container {
+    max-width: 400px !important;
+    border-radius: 15px;
+    border: 0.1em solid;
+    padding: 30px;
+    border-color: #aa04cb;
+    box-shadow: 0 0 10px rgba(99, 0, 108, 0.716);
+  }
+
+  h2{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  li{
+    margin-top: 5px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #000000;
+    transition: color 0.3s ease;
+  }
+
+  a:hover{
+    color: #aa04cb;
+  }
